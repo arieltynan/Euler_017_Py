@@ -1,4 +1,7 @@
-#Number letter counts
+# Euler Problem 017
+# Solved 17 January 2021
+
+# Number letter counts
 import math
 tot = 0
 def digitval(j):
